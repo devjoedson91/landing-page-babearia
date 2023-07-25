@@ -24,7 +24,7 @@ export function Services() {
                         className="w-full max-w-[354px] transition duration-[0.2s] hover:scale-[1.2] hover:z-[1] mx-768:max-w-[740px]"
                     />
                     <div className="w-full flex justify-between p-4 bg-whiteNormal z-[99]">
-                        <strong>Corte Normal</strong>
+                        <strong>Corte 1</strong>
                         <button className="bg-redNormal py-1 px-2 rounded-md border-0 text-white cursor-default">R$ 45,00</button>
                     </div>
                 </div>
@@ -34,12 +34,12 @@ export function Services() {
                     data-aos-delay="250"
                 >
                     <Image 
-                        src={Cut1}
+                        src={Cut2}
                         alt="corte normal"
                         className="w-full max-w-[354px] transition duration-[0.2s] hover:scale-[1.2] hover:z-[1] mx-768:max-w-[740px]"
                     />
                     <div className="w-full flex justify-between p-4 bg-whiteNormal z-[99]">
-                        <strong>Corte Normal</strong>
+                        <strong>Corte 2</strong>
                         <button className="bg-redNormal py-1 px-2 rounded-md border-0 text-white cursor-default">R$ 45,00</button>
                     </div>
                 </div>
@@ -49,12 +49,12 @@ export function Services() {
                     data-aos-delay="400"
                 >
                     <Image 
-                        src={Cut1}
+                        src={Cut3}
                         alt="corte normal"
                         className="w-full max-w-[354px] transition duration-[0.2s] hover:scale-[1.2] hover:z-[1] mx-768:max-w-[740px]"
                     />
                     <div className="w-full flex justify-between p-4 bg-whiteNormal z-[99]">
-                        <strong>Corte Normal</strong>
+                        <strong>Corte 3</strong>
                         <button className="bg-redNormal py-1 px-2 rounded-md border-0 text-white cursor-default">R$ 45,00</button>
                     </div>
                 </div>
